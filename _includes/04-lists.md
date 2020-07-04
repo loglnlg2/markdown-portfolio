@@ -1,0 +1,6 @@
+- Anime
+- Math
+  - Abstract algebra
+  - Analytical geometry
+  - Mathematical analysis
+  - Linear algebra
