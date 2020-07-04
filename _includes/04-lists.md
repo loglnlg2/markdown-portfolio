@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Anime
+- Math
+  - Abstract algebra
+  - Analytical geometry
+  - Mathematical analysis
+  - Linear algebra
